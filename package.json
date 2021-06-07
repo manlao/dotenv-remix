@@ -4,6 +4,15 @@
   "description": "dotenv-remix",
   "main": "dist/index.js",
   "types": "dist/index",
+  "files": [
+    "/dist/index.d.ts",
+    "/dist/index.js",
+    "/dist/index.js.map",
+    "config.js",
+    "package.json",
+    "LICENSE",
+    "README.md"
+  ],
   "exports": {
     ".": "./dist/index.js",
     "./config": "./config.js"
